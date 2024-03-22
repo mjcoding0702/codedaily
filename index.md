@@ -13,3 +13,6 @@ However, I indeed learned and understood the project that I am working at better
 The code was mainly revolving around infinite loop, and needed a way to prevent loop from happening while still ensuring everything works nicely.
 
 Gonna try to resolve the bug tomorrow!
+
+22 March 2024
+Done two features today!
